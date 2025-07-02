@@ -3,7 +3,7 @@ This is an interactive AI assistant built with Chainlit and Gemini 2.0 Flash API
 
 📸 Preview
 
-(![chatbot](chatbot_chainlit.PNG))
+![chatbot](chatbot_chainlit.PNG)
 
 🚀 Features
 💬 Chat interface using Chainlit
@@ -12,9 +12,11 @@ This is an interactive AI assistant built with Chainlit and Gemini 2.0 Flash API
 
 📜 Session-based chat memory
 
+🚀checkthis link use run
+https://web-production-2b4e2.up.railway.app/
 
 📹 Demo Recording
-(Optional: Add your Loom or YouTube link here if you recorded one)
+https://youtu.be/GbA5ix1L4vo?si=WMVBV9IOms_y0jnP
 Watch Demo Video
 
 🙋‍♀️ Author
