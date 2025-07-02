@@ -1,3 +1,0 @@
-chainlit
-python-dotenv
-openai   # if using Gemini-compatible setup
